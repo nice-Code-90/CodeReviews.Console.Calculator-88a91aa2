@@ -3,5 +3,4 @@
     <Project Path="Calculator/CalculatorProgram.csproj" Id="c3d082a3-c78d-46ff-936a-e5238dbc43fc" />
     <Project Path="CalculatorLibrary/CalculatorLibrary.csproj" Id="d9ad9c74-d72b-45a5-94aa-10dee7326731" />
   </Folder>
-  <Project Path="MathGame/MathGame.csproj" />
 </Solution>
